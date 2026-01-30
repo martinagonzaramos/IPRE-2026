@@ -65,7 +65,7 @@ Las comunas críticas mostraron una diferencia significativa en sus perfiles de 
 
 > **Mapa Zona Geográfica Completa**
 
-![MapaCompleto](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/Mapacompleto.png)
+![MapaCompleto](https://github.com/martinagonzaramos/IPRE-2026/blob/main/Anexos/Mapacompleto.png)
 
 > *Mapas individuales de cada región estarán expuestos al final en sección Anexos y en carpeta de repositorio de mismo nombre*
 
@@ -226,10 +226,11 @@ Se analizó la tasa de partos pretérmino en función de la clasificación térm
 
 ### II. Mapas Regionales de comunas críticas
 
-![O'Higgins](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/OHigginsmap.png)
-![Maule](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/Maulemap.png)
-![Bío Bío](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/Bi%CC%81oBi%CC%81omap.png)
-![Ñuble](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/N%CC%83ublemap.png)
+![O'Higgins](https://github.com/martinagonzaramos/IPRE-2026/blob/main/Anexos/OHigginsmap.png)
+![Maule](https://github.com/martinagonzaramos/IPRE-2026/blob/main/Anexos/Maulemap.png)
+![Bío Bío](https://github.com/martinagonzaramos/IPRE-2026/blob/main/Anexos/Bi%CC%81oBi%CC%81omap.png)
+![Ñuble](https://github.com/martinagonzaramos/IPRE-2026/blob/main/Anexos/N%CC%83ublemap.png)
+
 
 ## Contacto
 Para consultas, contactar a Martina González [mgonzr@uc.cl](mailto:mgonzr@uc.cl) y/o Estela Blanco [estela.blanco@uc.cl](mailto:estela.blanco@uc.cl)
