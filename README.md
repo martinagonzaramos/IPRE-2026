@@ -65,7 +65,7 @@ Las comunas críticas mostraron una diferencia significativa en sus perfiles de 
 
 > **Mapa Zona Geográfica Completa**
 
-![O'Higgins](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/Mapacompleto.png)
+![MapaCompleto](https://github.com/martinagonzaramos/IPRE--Enero2026-/blob/main/Anexos/Mapacompleto.png)
 
 > *Mapas individuales de cada región estarán expuestos al final en sección Anexos y en carpeta de repositorio de mismo nombre*
 
